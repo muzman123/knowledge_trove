@@ -1,0 +1,23 @@
+# private Python environment for the review engine (recreated by setup.ps1)
+.claude/.venv/
+__pycache__/
+*.pyc
+_system/*.tmp
+
+# personal Claude Code settings (not shared)
+.claude/settings.local.json
+
+# build outputs from exercises
+*.exe
+*.o
+*.obj
+*.pdb
+*.ilk
+build/
+out/
+a.out
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini

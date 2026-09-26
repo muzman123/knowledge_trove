@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+# Wrapper so skills can run the review engine with one short command:
+#   bash .claude/bin/srs due
+# Uses the private Python environment that setup.ps1 creates (.claude/.venv).
+DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+if [ -x "$DIR/.venv/Scripts/python.exe" ]; then
+  PY="$DIR/.venv/Scripts/python.exe"     # Windows
+elif [ -x "$DIR/.venv/bin/python" ]; then
+  PY="$DIR/.venv/bin/python"             # macOS / Linux
+else
+  PY="python"
+fi
+exec "$PY" "$DIR/scripts/srs.py" "$@"
