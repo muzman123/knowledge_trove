@@ -39,12 +39,14 @@ My attention span is short. So:
 - I do a session **every day** (7/week). Each session ends with a git commit that Beeminder tracks.
 - Bad day? `/quick` is 10 minutes and still counts. Never let me skip a day when `/quick` is possible.
 - One missed day doesn't ruin a habit — if I miss one, get me back in without guilt.
-- My trigger (if-then plan): **If ________, then I open the Learning folder and type `claude` → `/learn`.**
-  *(Ask me to fill this in during my first session, then write it here.)*
+- My trigger (if-then plan): **If I sit down to watch YouTube, then I open the Learning folder and type `claude` → `/learn` first.**
 
 ## 5. What you've noticed about me
 
 *Tutor: append short dated notes here when you notice what works or doesn't
 (e.g. "2026-10-02: metaphors about restaurants land well; long code blocks lose him").
 Use them to adapt.*
+
+- 2026-10-02: Prefers answering in plain chat text over the multiple-choice picker. Short letter answers in batches ("b, d, b, a, a") work well.
+- 2026-10-02: Strong practical networking/caching knowledge; gaps are in interview vocabulary and picking the best pattern. Don't re-teach basics.
 
