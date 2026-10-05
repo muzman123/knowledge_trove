@@ -7,9 +7,9 @@ card_prefix: ivp
 status: active
 nodes_total: 12
 nodes_solid: 0
-next_node: approach
+next_node: recursion-bigo
 started: 2026-10-02
-updated: 2026-10-02
+updated: 2026-10-05
 interview_date: 2026-10-07
 ---
 # Technical Interview Prep — roadmap
@@ -31,8 +31,8 @@ interview_date: 2026-10-07
 | 0 | Fri 10-02 | Placement quiz + this map ✔ |
 | 1 | Sat 10-03 | approach · recursion-bigo · two-pointers |
 | 2 | Sun 10-04 | sliding-window · binary-search · stack |
-| 3 | Mon 10-05 | trees · graphs · heaps |
-| 4 | Tue 10-06 | dp · sysdesign · mock |
+| 3 | Mon 10-05 | approach ✔ (sat/sun missed, so re-planned) |
+| 4 | Tue 10-06 | Must-know first: recursion-bigo · heaps · sysdesign (CAP + consistent hashing) · two-pointers. Then sliding-window / binary-search / trees if time allows |
 | 5 | Wed 10-07 | Interview day: reviews only (`/quick`) |
 
 ## The map
@@ -62,7 +62,7 @@ Status: ⬜ not started · 🟨 learning · ✅ solid (review cards sticking for
 
 | Status | Node id | Lesson | Needs | Lesson notes |
 |---|---|---|---|---|
-| ⬜ | approach | The interview method: clarify, brute force, optimize, state complexity, think out loud | — | |
+| 🟨 | approach | The interview method: clarify, brute force, optimize, state complexity, think out loud | — | [[2026-10-05 The interview method]] |
 | ⬜ | recursion-bigo | Big-O for recursion: recursion trees (why naive Fibonacci is exponential) | approach | |
 | ⬜ | two-pointers | Two pointers, and when it beats hashing or binary search | approach | |
 | ⬜ | sliding-window | Sliding window (e.g. longest substring without repeats) | two-pointers | |
@@ -85,3 +85,4 @@ Status: ⬜ not started · 🟨 learning · ✅ solid (review cards sticking for
 
 ## Change log
 - 2026-10-02: map created from placement + research. Fit to a 5-day window (interview 2026-10-07). Approved.
+- 2026-10-05: Sat/Sun missed. Day 4 re-planned to put the goal's named topics first (recursion Big-O, heaps, CAP, consistent hashing) plus two-pointers. Learner gap seen today: knows the idea but doesn't link "seen before / how many" → hash set / hash map, and didn't know Python dict = hash map.

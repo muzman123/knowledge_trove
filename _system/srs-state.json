@@ -1,7 +1,105 @@
 {
   "version": 1,
-  "cards": {},
+  "cards": {
+    "ivp-001": {
+      "subject": "interview-prep",
+      "node": "approach",
+      "created": "2026-10-05",
+      "fsrs": {
+        "card_id": 1791223682759,
+        "state": 1,
+        "step": 0,
+        "stability": null,
+        "difficulty": null,
+        "due": "2026-10-05T18:08:02.760601+00:00",
+        "last_review": null
+      },
+      "reviews": [],
+      "orphan": false
+    },
+    "ivp-002": {
+      "subject": "interview-prep",
+      "node": "approach",
+      "created": "2026-10-05",
+      "fsrs": {
+        "card_id": 1791223682760,
+        "state": 1,
+        "step": 0,
+        "stability": null,
+        "difficulty": null,
+        "due": "2026-10-05T18:08:02.762541+00:00",
+        "last_review": null
+      },
+      "reviews": [],
+      "orphan": false
+    },
+    "ivp-003": {
+      "subject": "interview-prep",
+      "node": "approach",
+      "created": "2026-10-05",
+      "fsrs": {
+        "card_id": 1791223682762,
+        "state": 1,
+        "step": 0,
+        "stability": null,
+        "difficulty": null,
+        "due": "2026-10-05T18:08:02.763652+00:00",
+        "last_review": null
+      },
+      "reviews": [],
+      "orphan": false
+    },
+    "ivp-004": {
+      "subject": "interview-prep",
+      "node": "approach",
+      "created": "2026-10-05",
+      "fsrs": {
+        "card_id": 1791223682763,
+        "state": 1,
+        "step": 0,
+        "stability": null,
+        "difficulty": null,
+        "due": "2026-10-05T18:08:02.766708+00:00",
+        "last_review": null
+      },
+      "reviews": [],
+      "orphan": false
+    },
+    "ivp-005": {
+      "subject": "interview-prep",
+      "node": "approach",
+      "created": "2026-10-05",
+      "fsrs": {
+        "card_id": 1791223682766,
+        "state": 1,
+        "step": 0,
+        "stability": null,
+        "difficulty": null,
+        "due": "2026-10-05T18:08:02.768420+00:00",
+        "last_review": null
+      },
+      "reviews": [],
+      "orphan": false
+    },
+    "ivp-006": {
+      "subject": "interview-prep",
+      "node": "approach",
+      "created": "2026-10-05",
+      "fsrs": {
+        "card_id": 1791223682768,
+        "state": 1,
+        "step": 0,
+        "stability": null,
+        "difficulty": null,
+        "due": "2026-10-05T18:08:02.770017+00:00",
+        "last_review": null
+      },
+      "reviews": [],
+      "orphan": false
+    }
+  },
   "sessions": [
-    "2026-10-02"
+    "2026-10-02",
+    "2026-10-05"
   ]
 }

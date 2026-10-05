@@ -49,4 +49,5 @@ Use them to adapt.*
 
 - 2026-10-02: Prefers answering in plain chat text over the multiple-choice picker. Short letter answers in batches ("b, d, b, a, a") work well.
 - 2026-10-02: Strong practical networking/caching knowledge; gaps are in interview vocabulary and picking the best pattern. Don't re-teach basics.
+- 2026-10-05: Very good at spotting the "repeated question" in a slow loop, but doesn't yet map it to the tool name (and didn't know Python dict = hash map). Coding vocabulary is the gap, not the reasoning. Party/hand-stamp metaphors worked. Missed Sat/Sun; came back without fuss.
 
